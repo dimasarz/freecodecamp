@@ -4814,9 +4814,9 @@
       "id": "bad89fee1348bd9aedf08724",
       "title": "Use RGB to Color Elements Red",
       "description": [
-        "Just like with hex code, you can represent different colors in RGB by using combinations of different values.",
-        "These values follow the pattern of RGB: the first number represents red, the second number represents green, and the third number represents blue.",
-        "Change the <code>body</code> element's background color to the RGB value red: <code>rgb(255, 0, 0)</code>"
+        "Seperti halnya hex code, kamu bisa mereptresentasikan warna yang berbeda pada RGB menggunakan konbinasi dari nilai yang berbeda.",
+        "Nilai disini mengikuti aturan RGB nilai pertama menunjukan warna merah, yang kedua menunjukkan warna hijau, dan yang ketiga menunjukkan warna biru.",
+        "Ubahlah background dari elemen <code>body</code> menjadi RGB dengan warna merah: <code>rgb(255, 0, 0)</code>"
       ],
       "titleRU": "Используйте формат RGB, чтобы сделать элементы красными",
       "descriptionRU": [
